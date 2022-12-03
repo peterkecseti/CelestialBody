@@ -1,0 +1,9 @@
+.padding{
+    margin-top: 20px;
+}
+.errorMessage{
+    color: red;
+}
+.errorContainer{
+    justify-content: center;
+}
